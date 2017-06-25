@@ -130,7 +130,7 @@ PRODUCT_PACKAGES += \
     LiveLockScreenService \
     LockClock \
     ThemeInterfacer \
-    Trebuchet \
+    Launcher3 \
     WallpaperPicker \
     WeatherProvider
 
